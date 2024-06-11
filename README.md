@@ -9,7 +9,7 @@
 - 
 ![Leetcode Stats](https://leetcode.com/u/sachin76448/lapor?ext=contest)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/sachin76448?theme=forest&font=patrick_hand&extension=activity)
+![Leetcode Stats](https://leetcode.card.workers.dev/sachin76448?theme=forest&font=patrick_hand&extension=activity&ext=contest)
 <!---
 Rohit-Yadav-Official/Rohit-Yadav-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
