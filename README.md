@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/Rohit-Yadav-Official/Rohit-Yadav-Official/assets/156703479/84b75c27-f8b3-4888-9fd7-dc4b14d51ff4)
+![image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![image](https://github.com/Rohit-Yadav-Official/Rohit-Yadav-Official/assets/156703479/84b75c27-f8b3-4888-9fd7-dc4b14d51ff4)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rohit-Yadav-Official&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
