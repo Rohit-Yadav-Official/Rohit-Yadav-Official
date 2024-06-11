@@ -16,20 +16,27 @@
 - 
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
   
-## Images in Rows
-
-<div>
-    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Image 1" style="margin-right: 5px;">
-    <img src="https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=dark&font=milonga" alt="LeetCard">
-</div>
 
 
-
-<div style="margin-top: 5px;">
-    <img src="https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark" alt="GitHub Streak" style="margin-right: 5px;">
-    <a href="https://www.youtube.com/channel/UC_1dUA0EBKwGXXynWYqAc-w">
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Image 1">
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=dark&font=milonga" alt="LeetCard">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark" alt="GitHub Streak">
+    </td>
+    <td>
+      <a href="https://www.youtube.com/channel/UC_1dUA0EBKwGXXynWYqAc-w">
         <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_1dUA0EBKwGXXynWYqAc-w&theme=radical" alt="Rohit's youtube stats">
-    </a>
-</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
