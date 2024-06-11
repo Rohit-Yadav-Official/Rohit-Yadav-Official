@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 - 
-![Leetcode Stats](https://leetcode.com/u/sachin76448/lapor?ext=contest)
-![](https://leetcard.jacoblin.cool/sachin76448?ext=contest)
+
+![](https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=forest&font=patrick_hand)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/sachin76448?theme=forest&font=patrick_hand&extension=contest)
 <!---
