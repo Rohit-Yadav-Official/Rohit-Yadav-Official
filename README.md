@@ -10,7 +10,7 @@
 
 ![](https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=dark&font=milonga)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark)](https://git.io/streak-stats) [![Rohit's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC_1dUA0EBKwGXXynWYqAc-w&theme=radical)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark)](https://git.io/streak-stats) 
 
 [![Rohit's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC_1dUA0EBKwGXXynWYqAc-w&theme=radical)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig)
 
