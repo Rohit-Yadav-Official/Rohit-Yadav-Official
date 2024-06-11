@@ -8,7 +8,7 @@
 
 - 
 
-![](https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=forest&font=patrick_hand)
+![](https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=dark&font=patrick_hand)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/sachin76448?theme=forest&font=patrick_hand&extension=contest)
 <!---
