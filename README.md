@@ -8,7 +8,7 @@
 
 - 
 ![Leetcode Stats](https://leetcode.com/u/sachin76448/lapor?ext=contest)
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![](https://leetcard.jacoblin.cool/sachin76448?ext=contest)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/sachin76448?theme=forest&font=patrick_hand&extension=contest)
 <!---
