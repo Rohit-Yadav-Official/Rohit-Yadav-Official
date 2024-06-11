@@ -12,6 +12,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark)](https://git.io/streak-stats)
 
+[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=@multivitamin_coder)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig)
+
 
 <!---
 Rohit-Yadav-Official/Rohit-Yadav-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
