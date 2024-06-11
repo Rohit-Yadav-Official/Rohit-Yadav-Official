@@ -14,20 +14,18 @@
 - 
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
   
-<div style="display: flex; align-items: center;">
+## Images in Rows
+
+<div>
     <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Image 1" style="margin-right: 10px;">
     <img src="https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=dark&font=milonga" alt="LeetCard">
 </div>
 
-
-
-<div style="display: flex; align-items: center; margin-top: 20px;">
+<div style="margin-top: 20px;">
     <img src="https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark" alt="GitHub Streak" style="margin-right: 10px;">
     <a href="https://www.youtube.com/channel/UC_1dUA0EBKwGXXynWYqAc-w">
         <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_1dUA0EBKwGXXynWYqAc-w&theme=radical" alt="Rohit's youtube stats">
     </a>
 </div>
-<!---
-Rohit-Yadav-Official/Rohit-Yadav-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
