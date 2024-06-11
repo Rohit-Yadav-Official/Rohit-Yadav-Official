@@ -16,7 +16,10 @@
 - 
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
   
-
+<div style="display: flex; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Image 1" style="margin-right: 10px;">
+    <img src="https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=dark&font=milonga" alt="LeetCard">
+</div>
 ![](https://leetcard.jacoblin.cool/sachin76448?ext=contest&theme=dark&font=milonga)
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark)]
