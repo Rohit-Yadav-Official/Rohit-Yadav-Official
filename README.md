@@ -1,4 +1,4 @@
-![Header](./data:image/png)
+![Header](./your-header-image-name.png)
 
 - 👋 Hi, I’m @Rohit-Yadav-Official
 - 👀 I’m interested in java
