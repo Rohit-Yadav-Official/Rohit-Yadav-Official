@@ -25,9 +25,12 @@
 
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark)]
-
-[![Rohit's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC_1dUA0EBKwGXXynWYqAc-w&theme=radical)](https://www.youtube.com/channel/UC_1dUA0EBKwGXXynWYqAc-w)
+<div style="display: flex; align-items: center; margin-top: 20px;">
+    <img src="https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark" alt="GitHub Streak" style="margin-right: 10px;">
+    <a href="https://www.youtube.com/channel/UC_1dUA0EBKwGXXynWYqAc-w">
+        <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_1dUA0EBKwGXXynWYqAc-w&theme=radical" alt="Rohit's youtube stats">
+    </a>
+</div>
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 <!---
