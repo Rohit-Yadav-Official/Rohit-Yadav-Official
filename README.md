@@ -22,7 +22,6 @@
 </div>
 
 
-![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <img src="https://streak-stats.demolab.com/?user=Rohit-Yadav-Official&theme=dark" alt="GitHub Streak" style="margin-right: 10px;">
@@ -30,7 +29,6 @@
         <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_1dUA0EBKwGXXynWYqAc-w&theme=radical" alt="Rohit's youtube stats">
     </a>
 </div>
-![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 <!---
 Rohit-Yadav-Official/Rohit-Yadav-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
