@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Rohit-Yadav-Official/Rohit-Yadav-Official/assets/156703479/84b75c27-f8b3-4888-9fd7-dc4b14d51ff4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rohit-Yadav-Official)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rohit-Yadav-Official&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👋 Hi, I’m @Rohit-Yadav-Official
