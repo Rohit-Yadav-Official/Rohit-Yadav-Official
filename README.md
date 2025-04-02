@@ -7,12 +7,12 @@
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 - 👋 Hi, I’m @Rohit-Yadav-Official 
-- 👀 I’m interested in java
-- 🌱 I’m currently learning spring-boot
+- 👀 I’m interested in java and Cloud
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i still eat kinderjoy
 - 
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
   
